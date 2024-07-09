@@ -16,7 +16,7 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript.
 + If all spaces are filled, the game ends in a draw.
 
 
-[Live demo 👋](https://tictactoesites.netlify.app/)
+[Live demo 👋](https://hermione69.github.io/tic-tac/)
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) 
