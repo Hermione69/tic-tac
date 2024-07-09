@@ -19,4 +19,4 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript.
 [Live demo 👋](https://hermione69.github.io/tic-tac/)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) 
+
